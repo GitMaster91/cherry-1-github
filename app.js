@@ -1,0 +1,1 @@
+const increase = (a, t, c) => at + c;
